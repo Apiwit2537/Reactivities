@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GSPq3BvhdhPMbKJRxjqwjo0yh6PkIqiJAbe0zwKEdUzBzMfa4y8oGEZS0ljNsfWGLgArd/o+B5cH/fpkMn5f7g==",
+  "dgSpecHash": "p+urRgQFIhUs4BeT2X2O5TTBy6R03lfQJ25tBQc3ISMe46YCC1V2gM8Qq0wqumMc8V0+LKFp5J+shALmpym/tQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Apiwit\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Apiwit\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\Apiwit\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\Apiwit\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Apiwit\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Apiwit\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
